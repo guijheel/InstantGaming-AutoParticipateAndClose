@@ -1,7 +1,7 @@
 # Instant Gaming Auto Giveaway & Close 🎮
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.5.0-blue.svg)](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate)
+[![Version](https://img.shields.io/badge/version-1.5.0-blue.svg)](https://github.com/guijheel/InstantGaming-AutoParticipateAndClose)
 
 Ce script Userscript permet d'automatiser entièrement la participation aux concours (giveaways) sur Instant-Gaming.com. Il clique sur le bouton de participation, valide les réseaux sociaux pour gagner des points bonus, et **ferme l'onglet automatiquement** une fois terminé.
 
