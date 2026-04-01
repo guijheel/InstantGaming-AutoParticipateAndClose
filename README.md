@@ -17,7 +17,7 @@ Ce script Userscript permet d'automatiser entièrement la participation aux conc
 
 1.  Installez une extension de gestion de scripts (type **Tampermonkey**, **Violentmonkey** ou **Greasemonkey**) sur votre navigateur.
 2.  Cliquez sur le lien direct du script (ou créez un "Nouveau script" et collez le code) :
-    * [Installer via GitHub Raw](https://raw.githubusercontent.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate/refs/heads/main/participate.user.js)
+    script.js
 3.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste !
 
 ## 🛠️ Utilisation
