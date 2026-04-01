@@ -20,10 +20,20 @@ Ce script Userscript permet d'automatiser entièrement la participation aux conc
    * [Tampermonkey Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    * [Violentmonkey Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
    * [Tampermonkey Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/)
-3.  Creé un "Nouveau script" et collez le code du fichier suivant :
+3.  Activer dans  **Tampermonkey**, **Violentmonkey** ou **Greasemonkey**  les Script users 
+
+    ### 🔧 Configuration importante
+
+Après avoir installé votre extension, vous devez activer une option pour permettre au script de fonctionner pleinement :
+
+1. Ouvrez la **Gestion des extensions** de votre navigateur.
+2. Cliquez sur **Détails** (ou Paramètres) de votre extension (Tampermonkey/Violentmonkey).
+3. Activez l'option **"Autoriser l'accès aux URL de fichier"** (Allow access to file URLs).
+4. Activez l'option **"Autoriser les scirpts Utilisateurs"** (Allow scirpt users).
+5. Sans cela, certaines fonctions comme la détection automatique ou la fermeture d'onglet pourraient être bloquées. 
+6.  Creé un "Nouveau script" et collez le code du fichier suivant :
     -  script.js
-4.  Activer dans  **Tampermonkey**, **Violentmonkey** ou **Greasemonkey** Script User
-5.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste ! (Etres Connecté)
+7.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste ! (Etres Connecté)
 
 ## 🛠️ Utilisation
 
