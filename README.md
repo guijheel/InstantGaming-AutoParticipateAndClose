@@ -34,7 +34,20 @@ Après avoir installé votre extension, vous devez activer une option pour perme
 6.  Creé un "Nouveau script" et collez le code du fichier suivant :
     -  script.js
 7.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste ! (Etres Connecté)
-   
+
+
+## 🏆 Astuces : Monter son compte Niveau 40+
+
+Pour augmenter votre crédibilité et vos chances, voici comment valider les succès de base sur IG :
+
+* **✨ Rêveur** : Ajoutez au moins **5 jeux** à votre [Wishlist](https://www.instant-gaming.com/fr/wishlist/).
+* **👥 Follow me** : Ajoutez au moins **un ami** sur votre profil.
+* **🖼️ Hello world!** : Ajoutez une **image d'avatar** à votre compte.
+* **📅 Ig New Visite** : Connectez-vous simplement [News](https://news.instant-gaming.com/fr).
+* **🔌 Compagnon** : Installez l'extension officielle Instant Gaming, puis désinstallez-la une fois le badge reçu.
+
+
+  
 ## 🛠️ Utilisation
 
 Le script ajoute des commandes spécifiques dans le menu de votre gestionnaire de scripts (Tampermonkey) :
@@ -368,16 +381,8 @@ Le script ajoute des commandes spécifiques dans le menu de votre gestionnaire d
 </p>
 
 
-## 🏆 Astuces : Monter son compte Niveau 40+
 
-Pour augmenter votre crédibilité et vos chances, voici comment valider les succès de base sur IG :
 
-* **✨ Rêveur** : Ajoutez au moins **5 jeux** à votre [Wishlist](https://www.instant-gaming.com/fr/wishlist/).
-* **👥 Follow me** : Ajoutez au moins **un ami** sur votre profil.
-* **🖼️ Hello world!** : Ajoutez une **image d'avatar** à votre compte.
-* **📅 Ig New Visite** : Connectez-vous simplement [News](https://news.instant-gaming.com/fr).
-* **🔌 Compagnon** : Installez l'extension officielle Instant Gaming, puis désinstallez-la une fois le badge reçu.
-  
 ## 📝 Code Source
 
 Le script est écrit en JavaScript pur et utilise les métadonnées standard pour la compatibilité.
