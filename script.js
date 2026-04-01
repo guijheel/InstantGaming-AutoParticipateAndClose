@@ -2,7 +2,7 @@
 // @name         Instant Gaming Auto Giveaway & Close
 // @description  A script that automatically click on participate buttons and closes the tab when done.
 // @version      1.5.0
-// @author       enzomtp & Gemini
+// @author       enzomtp & guijheel
 // @match        *://www.instant-gaming.com/*
 // @match        *://github.com/guijheel/*
 // @run-at       document-idle
