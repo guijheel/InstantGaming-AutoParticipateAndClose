@@ -346,6 +346,9 @@ Le script ajoute des commandes spécifiques dans le menu de votre gestionnaire d
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/miriampetricor?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/28376726-1752697731.jpg" alt="Miriam Petricor" width="76" height="76" />
+    </a> 
+      <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/concoursdesrattusdiscord?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/28376726-1752697731.jpg" alt="Miriam Petricor" width="76" height="76" />
     </a>
 </p>
 
