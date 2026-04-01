@@ -18,8 +18,13 @@ Ce script Userscript permet d'automatiser entièrement la participation aux conc
 1.  Installez une extension de gestion de scripts (type **Tampermonkey**, **Violentmonkey** ou **Greasemonkey**) sur votre navigateur.
 2.  Creé un "Nouveau script" et collez le code du fichier suivant :
     -  script.js
-3.  Activer dans  **Tampermonkey**, **Violentmonkey** ou **Greasemonkey** Script User 
-3.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste ! (Etres Connecté)
+3.  Activer dans  **Tampermonkey**, **Violentmonkey** ou **Greasemonkey** Script User
+4. *  <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha" target="_blank" rel="noreferrer">
+      <p> **Tampermonkey** </p>
+    </a> 
+   *
+   * 
+6.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste ! (Etres Connecté)
 
 ## 🛠️ Utilisation
 
