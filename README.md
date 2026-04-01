@@ -32,7 +32,7 @@ Après avoir installé votre extension, vous devez activer une option pour perme
 4. Activez l'option **"Autoriser les scirpts Utilisateurs"** (Allow scirpt users).
 5. Sans cela, certaines fonctions comme la détection automatique ou la fermeture d'onglet pourraient être bloquées. 
 6.  Creé un "Nouveau script" et collez le code du fichier suivant :
-    -  script.js
+    -  [Script.js]( https://github.com/guijheel/InstantGaming-AutoParticipateAndClose/blob/main/script.js)
 7.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste ! (Etres Connecté)
 
 
