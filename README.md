@@ -34,7 +34,7 @@ Après avoir installé votre extension, vous devez activer une option pour perme
 6.  Creé un "Nouveau script" et collez le code du fichier suivant :
     -  script.js
 7.  Rendez-vous sur une page de concours Instant Gaming, le script s'occupe du reste ! (Etres Connecté)
-
+   
 ## 🛠️ Utilisation
 
 Le script ajoute des commandes spécifiques dans le menu de votre gestionnaire de scripts (Tampermonkey) :
