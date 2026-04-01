@@ -393,4 +393,4 @@ Le script est écrit en JavaScript pur et utilise les métadonnées standard pou
 // - window.close() pour le nettoyage des onglets
 // - setTimeout pour gérer les délais de chargement d'IG
 
-*Avertissement : Ce script est un outil d'automatisation. L'auteur n'est pas responsable en cas de modification des conditions d'utilisation d'Instant Gaming.*
+Avertissement : Ce script est un outil d'automatisation. L'auteur n'est pas responsable en cas de modification des conditions d'utilisation d'Instant Gaming.
