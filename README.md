@@ -16,15 +16,10 @@ Ce script Userscript permet d'automatiser entièrement la participation aux conc
 ## 🚀 Installation
 
 1.  Installez une extension de gestion de scripts (type **Tampermonkey**, **Violentmonkey** ou **Greasemonkey**) sur votre navigateur.
-2. *  <a class="extension" href="(https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)" target="_blank" rel="noreferrer">
-      <h1> Tampermonkey Chrome </h1>
-    </a> 
-   *  <a class="extension" href="[[https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha]([https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?pli=1](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?pli=1))](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)" target="_blank" rel="noreferrer">
-      <h1> Violentmonkey Chrome </h1>
-    </a> 
-   *    <a class="extension" href="[https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)" target="_blank" rel="noreferrer">
-      <h1> Tampermonkey </h1>
-    </a> 
+2. Installez une extension :
+   * [Tampermonkey Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   * [Violentmonkey Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+   * [Tampermonkey Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/)
 3.  Creé un "Nouveau script" et collez le code du fichier suivant :
     -  script.js
 4.  Activer dans  **Tampermonkey**, **Violentmonkey** ou **Greasemonkey** Script User
