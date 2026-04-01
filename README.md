@@ -24,7 +24,7 @@ Ce script Userscript permet d'automatiser entièrement la participation aux conc
 
     ### 🔧 Configuration importante
 
-Après avoir installé votre extension, vous devez activer une option pour permettre au script de fonctionner pleinement :
+Après avoir installé votre extension, vous devez activer deux options pour permettre au script de fonctionner pleinement :
 
 1. Ouvrez la **Gestion des extensions** de votre navigateur.
 2. Cliquez sur **Détails** (ou Paramètres) de votre extension (Tampermonkey/Violentmonkey).
