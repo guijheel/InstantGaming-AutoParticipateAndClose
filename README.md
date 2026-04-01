@@ -29,8 +29,8 @@ Le script ajoute des commandes spécifiques dans le menu de votre gestionnaire d
 * **Giveaway List** : Récupère les liens des concours présents.
 * **Open ALL Links** : Ouvre tous les concours détectés dans de nouveaux onglets.
 
-## 🛠️ List Giveway
-
+## 🛠️ List Giveway 
+ ** CTRL + CLICK **
 <p id="giveaways" align="left">
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg" alt="Bob Lennon" width="76" height="76" />
