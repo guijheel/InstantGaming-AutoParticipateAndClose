@@ -61,7 +61,7 @@
 </ul>
 <h2 id="️-list-giveway">🛠️ List Giveway</h2>
 <h1 id="ctrl--click">CTRL + CLICK</h1>
-<div style="display: flex;">
+<p style="display: flex; flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; gap: 6px; padding-bottom: 10px;">
     <a href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha" target="_blank" rel="noreferrer">
         <img alt="Bob Lennon" width="76" height="76" src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg">
     </a>
@@ -383,7 +383,7 @@
     <a href="https://www.instant-gaming.com/fr/giveaway/locklear?igr=jaha" target="_blank" rel="noreferrer">
         <img alt="Locklear" width="76" height="76" src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg">
     </a>
-</div>
+</p>
 <h2 id="-code-source">📝 Code Source</h2>
 <p>Le script est écrit en JavaScript pur et utilise les métadonnées standard pour la compatibilité.</p>
 <pre><pre><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span style="color: rgb(92, 99, 112);">// Les fonctionnalités principales incluent :</span><span></span></div><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span></span><span style="color: rgb(92, 99, 112);">// - document.querySelector pour détecter les boutons</span><span></span></div><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span></span><span style="color: rgb(92, 99, 112);">// - window.close() pour le nettoyage des onglets</span><span></span></div><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span></span><span style="color: rgb(92, 99, 112);">// - setTimeout pour gérer les délais de chargement d'IG</span><span></span></div><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span style="display: inline-block;">
