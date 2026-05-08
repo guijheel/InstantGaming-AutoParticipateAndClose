@@ -382,7 +382,7 @@ Le script ajoute des commandes spécifiques dans le menu de votre gestionnaire d
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/locklear?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="Locklear" width="76" height="76" />
     </a>
-</p>
+</div>
 
 
 
