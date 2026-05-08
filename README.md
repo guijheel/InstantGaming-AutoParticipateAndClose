@@ -59,7 +59,8 @@ Le script ajoute des commandes spécifiques dans le menu de votre gestionnaire d
 
 ## 🛠️ List Giveway 
 # CTRL + CLICK 
-<p id="giveaways" align="">
+<p id="giveaways" style="display:flex;flex-wrap:nowrap;overflow-x:auto;white-space:nowrap;gap:6px;">
+
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg" alt="Bob Lennon" width="76" height="76" />
     </a>
